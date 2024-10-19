@@ -53,7 +53,7 @@ The functionality of this project is encapsulated in classes, allowing for easy 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sqlite3-mini-tool.git
+   git clone https://github.com/mohamedfathy621/sqllite_operator.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -68,18 +68,15 @@ The functionality of this project is encapsulated in classes, allowing for easy 
 
 To run the tool, execute the following command in your terminal:
 ```bash
-node index.js
+node main.js
 ```
 
 ## Contribution
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
 - Inspired by the need for easier database management.
-- Special thanks to the SQLite documentation for guidance on database operations.
+
