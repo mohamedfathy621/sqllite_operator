@@ -1,0 +1,19 @@
+{
+  "name": "sqllite_operator",
+  "version": "1.0.0",
+  "description": "mini_sqllite_tool",
+  "bin": "main.js",
+  "scripts": {
+    "build": "pkg ."
+  },
+  "author": "mohamed_fathy",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "pkg": {
+    "targets": [
+      "node16-win-x64"
+    ]
+  }
+}
